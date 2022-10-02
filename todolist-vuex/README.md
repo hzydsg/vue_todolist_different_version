@@ -1,4 +1,4 @@
-# 02-todolist-vuex
+# todolist-vuex
 
 ## Project setup
 ```
