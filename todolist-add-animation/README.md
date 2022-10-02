@@ -1,4 +1,4 @@
-# 09-todolist-add-animation
+# todolist-add-animation
 
 ## Project setup
 ```
