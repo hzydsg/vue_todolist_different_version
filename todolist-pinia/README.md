@@ -1,4 +1,4 @@
-# 01-todolist-pinia
+# todolist-pinia
 
 ## Project setup
 ```
