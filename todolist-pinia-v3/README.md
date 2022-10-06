@@ -1,5 +1,5 @@
-# 04-todolist-pinia-v3
-
+# todolist-pinia-v3
+## 本项目主要使用pinia和Vue3进行开发,pinia是Vue3官方推荐的存储库,和Vuex有类似作用，可以用于任意组件之间的通信。
 ## Project setup
 ```
 npm install
